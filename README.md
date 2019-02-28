@@ -17,6 +17,7 @@
 
 # Exemplos
 [![N|Solid](https://i.imgur.com/QSm0I0S.gif)](https://i.imgur.com/QSm0I0S.gif)
+
 [![N|Solid](https://i.imgur.com/EP4bf6R.png)](https://i.imgur.com/EP4bf6R.png)
 [![N|Solid](https://i.imgur.com/LfX730l.png)](https://i.imgur.com/LfX730l.png)
 [![N|Solid](https://i.imgur.com/qRK2rE0.png)](https://i.imgur.com/qRK2rE0.png)
