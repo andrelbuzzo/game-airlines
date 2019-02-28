@@ -17,7 +17,6 @@
 
 # Exemplos
 [![N|Solid](https://raw.githubusercontent.com/andrelbuzzo/game-airlines/master/splash.gif)](https://raw.githubusercontent.com/andrelbuzzo/game-airlines/master/splash.gif)
-[![N|Solid](https://raw.githubusercontent.com/andrelbuzzo/game-airlines/master/splash.mp4)](https://raw.githubusercontent.com/andrelbuzzo/game-airlines/master/splash.mp4)
 
 [![N|Solid](https://i.imgur.com/EP4bf6R.png)](https://i.imgur.com/EP4bf6R.png)
 [![N|Solid](https://i.imgur.com/LfX730l.png)](https://i.imgur.com/LfX730l.png)
