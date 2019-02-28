@@ -16,7 +16,8 @@
 >processo, a empresa autorizou que o policial pudesse dirigir o veículo também.
 
 # Exemplos
-[![N|Solid](https://i.imgur.com/QSm0I0S.gif)](https://i.imgur.com/QSm0I0S.gif)
+[![N|Solid](https://github.com/andrelbuzzo/game-airlines/splash.gif)](https://github.com/andrelbuzzo/game-airlines/splash.gif)
+[![N|Solid](https://github.com/andrelbuzzo/game-airlines/splash.gifv)](https://github.com/andrelbuzzo/game-airlines/splash.gifv)
 
 [![N|Solid](https://i.imgur.com/EP4bf6R.png)](https://i.imgur.com/EP4bf6R.png)
 [![N|Solid](https://i.imgur.com/LfX730l.png)](https://i.imgur.com/LfX730l.png)
